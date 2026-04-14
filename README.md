@@ -8,7 +8,7 @@ Run [OmniVoice](https://github.com/k2-fsa/OmniVoice) in your browser — voice c
 
 ## 🎬 Demo
 
-> Watch the full tutorial on YouTube: **[link to your video]**
+> Watch the full tutorial on YouTube: **https://youtu.be/cqkqZq0i8pI**
 
 ---
 
